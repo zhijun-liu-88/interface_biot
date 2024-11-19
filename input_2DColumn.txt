@@ -1,0 +1,21 @@
+Mesh Type(Quad, IRT3_R, BiotQ9Q4):
+BiotQ9Q4
+Number of boundary segments:
+4
+Coordinates of nodes of boundary segments:
+  0.035       -0.035        0.735    0.665
+  0.735    0.665        0.665    0.735
+  0.665    0.735        -0.035       0.035
+  -0.035       0.035        0.035       -0.035
+NumHolePoint:
+0
+SizeETri:
+2
+HSizeRTri, VSizeRTri:
+0.1   0.1
+MinXCenterRTriMC,MinXCenterRTriMC:
+-2   -8
+MinXCenterQuadMC,MinYCenterQuadMC:
+-0.04   -0.04
+HSizeQuad, VSizeQuad:
+0.02   0.02
